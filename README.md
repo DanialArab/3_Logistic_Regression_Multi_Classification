@@ -1,1 +1,1 @@
-# Logistic-regression-multi-classification
+# Logistic_Regression_Multi_Classification
